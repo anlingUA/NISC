@@ -1,1 +1,1 @@
-# Neural Network-based Imputation for sparse scRNA-seq count data. 
+# Neural Network-based Imputation for sparse scRNA-seq count data 
