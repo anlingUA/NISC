@@ -1,1 +1,1 @@
-# NISC is a Neural Network-based Imputation for sparse scRNA-seq count data.  Relying on regularization and autoencoder techniques NISC impute the dropout evens in scRNA-seq data and improve the downstream analysis, particularly, in cell type identification.  
+# Neural Network-based Imputation for sparse scRNA-seq count data. 
