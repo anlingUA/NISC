@@ -17,7 +17,7 @@ In this folder, there are two execution python code files with data:
 
 2. The file "generate_plots.py".
 
-      It will generate tSNE plots and PCA plots for ground truth (no extra zero added), noisy input data, and imputed data after NISC.
+      It will generate tSNE plots, UMAP, and PCA plots for ground truth (no extra zero added), noisy input data, and imputed data after NISC.
 
   - "cellType.npy" stores the information of cell types and there are two cell types for this example dataset.
   - "Truth.npy" stores the ground truth values of gene expressions.
